@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
+    "ip": "dynamic-6.magmanode.com:25619",
     "port": 27586,
     "version": "",
     "try-creative": false
